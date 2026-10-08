@@ -1,5 +1,5 @@
 # AndroidStudio-汉化插件
-本质上是修改了idea汉化插件中如图所示plugin.xml文件中的idea-version。
+本质上是修改了idea汉化插件中如图所示plugin.xml文件中的idea-version为AndroidStudio当前版本系列。
 
 <img width="1126" height="252" alt="image" src="https://github.com/user-attachments/assets/e516463c-a9b8-49ed-a92c-b9bad0bd0e1a" />
 
