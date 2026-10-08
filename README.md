@@ -1,7 +1,8 @@
 # AndroidStudio-汉化插件
-本质上是修改了idea汉化插件中的版本号。
+本质上是修改了idea汉化插件中如图所示plugin.xml文件中的idea-version。
 
-<img width="1081" height="213" alt="image" src="https://github.com/user-attachments/assets/755fe572-6bd3-441d-ab17-59b8568074a5" />
+<img width="1126" height="252" alt="image" src="https://github.com/user-attachments/assets/e516463c-a9b8-49ed-a92c-b9bad0bd0e1a" />
+
 图中 "idea-version since-build="AI-0" until-build="AI-999.*" 理论上应该支持以后的所有AI版本。
 
 # 使用
